@@ -1,13 +1,14 @@
 <!-- badges: start -->
 [![CRAN](https://www.r-pkg.org/badges/version/Ecume)](https://cran.r-project.org/package=Ecume)
 [![R build status](https://github.com/HectorRDB/Ecume/workflows/R-CMD-check/badge.svg)](https://github.com/HectorRDB/Ecume/actions)
-[![Codecov test coverage](https://codecov.io/gh/HectorRDB/Ecume/branch/main/graph/badge.svg)](https://codecov.io/gh/HectorRDB/Ecume?branch=main)
+[![Codecov test coverage](https://codecov.io/gh/HectorRDB/Ecume/branch/main/graph/badge.svg)](https://app.codecov.io/gh/HectorRDB/Ecume?branch=main)
+[![](https://cranlogs.r-pkg.org/badges/Ecume)](https://cran.r-project.org/package=Ecume)
 <!-- badges: end -->
   
 # R package: Ecume
 
   
-This package implemements (or re-implements in `R`) a variety of statistical tools used to do non-parametric two-sample (or k-sample) distribution comparisons in the univariate or multivariate case.
+This package implements (or re-implements in `R`) a variety of statistical tools used to do non-parametric two-sample (or k-sample) distribution comparisons in the univariate or multivariate case.
 
 If you want to suggest a new test or a variant, open an [issue](https://github.com/HectorRDB/Ecume/issues).
 
